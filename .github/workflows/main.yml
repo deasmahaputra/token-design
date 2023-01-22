@@ -48,6 +48,6 @@ jobs:
           supernova sync-tokens 
           --apiKey="sn.UPBzZnJaX5DMsgV438IwcH2vScUmj3ZlLWklNsl61ULSzYuqyLoIDWR2swvANEtksq2MLBocSpKI1NQiTDDGZJFKzkUQFSFT"
           --designSystemId="24652" 
-          --tokenFilePath "${{ github.workflows }}/astro_token/tokens.json"
-          --configFilePath "${{ github.workflows }}/astro_token/supernova.settings.json"
+          --tokenFilePath "${{ github.workspace }}/astro_token/tokens.json"
+          --configFilePath "${{ github.workspace }}/astro_token/supernova.settings.json"
              
