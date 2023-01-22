@@ -1,0 +1,19 @@
+{
+    "mode": "single-file",
+    "mapping": [{
+            "tokensTheme": "Light",
+            "supernovaBrand": "Default",
+            "supernovaTheme": null
+        },
+        {
+            "tokensTheme": "Dark",
+            "supernovaBrand": "Default",
+            "supernovaTheme": "Dark"
+        }
+    ],
+    "settings": {
+        "dryRun": false,
+        "verbose": false,
+        "preciseCopy": false
+    }
+}
