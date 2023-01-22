@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6982edb-e949-4f45-a5dc-cb3c86236dde" name="Changes" comment="add new folder" />
+    <list default="true" id="a6982edb-e949-4f45-a5dc-cb3c86236dde" name="Changes" comment="fixing theme" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +81,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674383602176</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add new folder">
+      <created>1674383661233</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674383661233</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fixing theme">
+      <created>1674384505743</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674384505743</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +115,7 @@
     <MESSAGE value="edit file name" />
     <MESSAGE value="fixing supernova setting" />
     <MESSAGE value="add new folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new folder" />
+    <MESSAGE value="fixing theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixing theme" />
   </component>
 </project>
