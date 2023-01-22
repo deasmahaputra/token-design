@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6982edb-e949-4f45-a5dc-cb3c86236dde" name="Changes" comment="edit file name" />
+    <list default="true" id="a6982edb-e949-4f45-a5dc-cb3c86236dde" name="Changes" comment="fixing supernova setting" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674382511964</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fixing supernova setting">
+      <created>1674382860635</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674382860635</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,6 +92,7 @@
     <MESSAGE value="add workflows" />
     <MESSAGE value="add config file" />
     <MESSAGE value="edit file name" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit file name" />
+    <MESSAGE value="fixing supernova setting" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixing supernova setting" />
   </component>
 </project>
