@@ -1,9 +1,21 @@
 {
-    "mode": "single-file",
-    "mapping": [],
-    "settings": {
-        "dryRun": false,
-        "verbose": false,
-        "preciseCopy": false
-    }
+    "mode":"single-file",
+    "mapping": [{
+        "tokenSets": [
+            "global",
+            "light"
+        ],
+
+        "supernovaBrand": "Default",
+        "supernovaTheme": null
+    }, {
+        "tokenSets":[
+            "global",
+            "dark"
+        ],
+
+        "supernovaBrand":"Default",
+        "supernovaTheme":"Dark"
+
+    }]
 }
