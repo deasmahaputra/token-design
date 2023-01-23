@@ -2,16 +2,14 @@
     "mode":"single-file",
     "mapping": [{
         "tokenSets": [
-            "global",
-            "light"
+            "global"
         ],
 
         "supernovaBrand": "Default",
         "supernovaTheme": null
     }, {
         "tokenSets":[
-            "global",
-            "dark"
+            "global"
         ],
 
         "supernovaBrand":"Default",
