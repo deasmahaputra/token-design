@@ -4,13 +4,21 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6982edb-e949-4f45-a5dc-cb3c86236dde" name="Changes" comment="change supernova.settings.json" />
+    <list default="true" id="a6982edb-e949-4f45-a5dc-cb3c86236dde" name="Changes" comment="change execute action when pull request">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/astro_token/tokens.json" beforeDir="false" afterPath="$PROJECT_DIR$/astro_token/tokens.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -130,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674447379179</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="change execute action when pull request">
+      <created>1674447898041</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674447898041</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +167,7 @@
     <MESSAGE value="add new folder" />
     <MESSAGE value="fixing theme" />
     <MESSAGE value="change supernova.settings.json" />
-    <option name="LAST_COMMIT_MESSAGE" value="change supernova.settings.json" />
+    <MESSAGE value="change execute action when pull request" />
+    <option name="LAST_COMMIT_MESSAGE" value="change execute action when pull request" />
   </component>
 </project>
